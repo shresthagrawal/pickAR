@@ -1,0 +1,2 @@
+C:\Users\TUM\Desktop\BE5HackDays\New folder\pickARv1.2\App\pickARv1.2\pickARv1.2.csproj;x86
+C:\Users\TUM\Desktop\BE5HackDays\pickARv1.2\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86

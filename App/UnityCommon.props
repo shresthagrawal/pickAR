@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>pickARv1.2</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\TUM\Desktop\BE5HackDays\pickARv1.2\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\TUM\Desktop\BE5HackDays\pickARv1.2\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
